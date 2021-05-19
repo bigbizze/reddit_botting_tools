@@ -1,0 +1,6 @@
+/venv/
+.env
+/sqlite/accounts.db
+/sqlite/accounts.csv
+/proxy/geckodriver.log
+/scrape/geckodriver.log
